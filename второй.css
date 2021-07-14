@@ -1,0 +1,33 @@
+body{
+	background: #454465;
+}
+h1{
+	background: #f7474774;
+	padding:10px;
+	padding-left:10px;
+	padding-right:10px;
+	color:white;
+	margin: -0px;
+}
+strong{
+	color:#f44444;
+}
+a{
+	text-decoration: none;
+	background:#499944;
+	padding:10px;
+	border-radius: 5px;
+	color:white;
+}
+ul{
+	display: flex;
+
+}
+li{
+	margin: 10px;
+	padding:10px;
+}
+a:hover{
+	background: #f44444;
+	color:black;
+}
